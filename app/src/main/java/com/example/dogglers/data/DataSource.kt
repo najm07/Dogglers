@@ -61,4 +61,6 @@ object DataSource {
             "Chasing sea foam"
         )
     )
+
+    fun loadDogs() = dogs
 }
